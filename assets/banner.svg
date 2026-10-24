@@ -50,7 +50,7 @@
     <text x="42" y="262" class="hud" font-size="13" fill="#0B0B0D">PRODUCTION MODEL</text>
 
     <!-- титр в стиле Евангелиона -->
-    <text x="400" y="78" class="hud" font-size="15" fill="#F28C28">EVANGELION UNIT-02 // PILOT FILE</text>
+    <text x="400" y="78" class="hud" font-size="15" fill="#F28C28">EVANGELION UNIT-02</text>
     <g transform="translate(398 168) scale(0.78 1)">
       <text class="serif" font-size="96" fill="#F4F1EA">LEGENDAR</text>
     </g>
@@ -58,7 +58,7 @@
       <text class="serif" font-size="96" fill="#FF3B2F">0504</text>
     </g>
     <rect x="400" y="186" width="560" height="3" fill="#F4F1EA"/>
-    <text x="400" y="222" class="serif" font-size="26" fill="#F4F1EA" font-style="italic">Анта бака?! Сначала посмотри мои проекты.</text>
+    <text x="400" y="222" class="hud" font-size="18" fill="#F28C28">WEB · MAPS · BOTS</text>
 
     <!-- HUD справа снизу -->
     <text x="400" y="266" class="hud" font-size="13" fill="#9a9a9a">SYNC RATIO</text>

@@ -50,10 +50,6 @@
   <img src="https://streak-stats.demolab.com/?user=Legendar0504&disable_animations=true&locale=ru&background=0B0B0D&border=FF3B2F&stroke=3A0D0B&ring=FF3B2F&fire=F28C28&currStreakNum=F4F1EA&sideNums=F4F1EA&currStreakLabel=FF3B2F&sideLabels=F28C28&dates=9A9A9A"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Legendar0504/Legendar0504/output/snake-eva02.svg" alt="Змейка активности" width="100%"/>
-</p>
-
 <img src="assets/divider.svg" width="100%"/>
 
 <p align="center"><b>EVA-02 · К БОЮ ГОТОВА</b><br/><i>Анта бака?! Поставь звёздочку проекту, если понравился.</i></p>

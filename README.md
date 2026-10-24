@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="EVA-02 · Legendar0504" width="100%"/>
+  <img src="assets/banner-v2.svg" alt="EVA-02 · Legendar0504" width="100%"/>
 </p>
 
 <div align="center">
-<img src="assets/magi.svg" width="28%" align="right" alt="MAGI"/>
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=900&size=40&duration=3500&pause=600&color=F28C28&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Legendar;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C+%D0%BA%D0%B0%D1%80%D1%82%D1%8B+%D0%B8+%D0%B1%D0%BE%D1%82%D0%BE%D0%B2" width="68%" alt="Привет, я Legendar"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=900&size=40&duration=3500&pause=600&color=F28C28&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Legendar;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C+%D0%BA%D0%B0%D1%80%D1%82%D1%8B+%D0%B8+%D0%B1%D0%BE%D1%82%D0%BE%D0%B2" width="80%" alt="Привет, я Legendar"/>
 <br><br>
 <pre>
+  👤 Даниил (Daniil) • 14 лет
+  🎂 День рождения: 5 апреля
+  📍 Россия
+
   🟧 Сайты • интерактивные карты • Telegram-боты
   💻 JavaScript • Python • HTML/CSS • Docker
   🗺️ Сейчас делаю «Историческую карту» — karta-vekov.ru

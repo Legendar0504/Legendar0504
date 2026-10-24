@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" role="img" aria-label="EVA-02">
+  <style>
+    .eye { fill: #7CFFB2; animation: blink 3.5s infinite; transform-box: fill-box; transform-origin: center; }
+    .e2 { animation-delay: .15s; }
+    .e3 { animation-delay: .3s; }
+    .e4 { animation-delay: .45s; }
+    @keyframes blink { 0%, 90%, 100% { transform: scaleY(1); } 94% { transform: scaleY(.1); } }
+  </style>
+  <path d="M10 4 H110 L118 20 L110 36 H10 L2 20 Z" fill="#D7261E"/>
+  <path d="M10 4 H110 L118 20 L110 36 H10 L2 20 Z" fill="none" stroke="#F28C28" stroke-width="2"/>
+  <rect class="eye" x="18" y="12" width="20" height="6" rx="3"/>
+  <rect class="eye e2" x="44" y="12" width="20" height="6" rx="3"/>
+  <rect class="eye e3" x="31" y="23" width="20" height="6" rx="3"/>
+  <rect class="eye e4" x="57" y="23" width="20" height="6" rx="3"/>
+  <text x="104" y="25" text-anchor="end" font-family="Times New Roman, serif" font-weight="900" font-size="15" fill="#0B0B0D">02</text>
+</svg>

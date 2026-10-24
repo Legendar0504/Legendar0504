@@ -2,11 +2,31 @@
   <img src="assets/banner.svg" alt="EVA-02 · Legendar0504" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Legendar0504">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F28C28&center=true&vCenter=true&width=640&lines=%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C+%D0%BA%D0%B0%D1%80%D1%82%D1%8B+%D0%B8+%D0%B1%D0%BE%D1%82%D0%BE%D0%B2;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+Docker" alt="Typing SVG"/>
-  </a>
-</p>
+<div align="center">
+<img src="assets/magi.svg" width="28%" align="right" alt="MAGI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=900&size=40&duration=3500&pause=600&color=F28C28&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Legendar;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C+%D0%BA%D0%B0%D1%80%D1%82%D1%8B+%D0%B8+%D0%B1%D0%BE%D1%82%D0%BE%D0%B2" width="68%" alt="Привет, я Legendar"/>
+<br><br>
+<pre>
+  🟧 Сайты • интерактивные карты • Telegram-боты
+  💻 JavaScript • Python • HTML/CSS • Docker
+  🗺️ Сейчас делаю «Историческую карту» — karta-vekov.ru
+  🎮 Игры • Аниме • Евангелион • Код
+</pre>
+<br>
+<img src="assets/eyes.svg" height="40" alt="EVA-02"/>
+<br><br>
+
+<a href="https://steamcommunity.com/profiles/76561198624055739/"><img width="32px" alt="Steam" title="Steam: Legendar" src="https://cdn.simpleicons.org/steam/F28C28"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<img width="32px" alt="Discord" title="Discord: _legendar_" src="https://cdn.simpleicons.org/discord/F28C28"/>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://github.com/Legendar0504"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/F28C28"/></a>
+
+<br><br>
+
+<a href="https://steamcommunity.com/profiles/76561198624055739/"><img alt="Steam" src="https://img.shields.io/badge/Steam-Legendar-F28C28?style=for-the-badge&logo=steam&logoColor=F28C28&labelColor=0B0B0D"/></a>
+<img alt="Discord" title="Мой Discord" src="https://img.shields.io/badge/Discord-__legendar__-F28C28?style=for-the-badge&logo=discord&logoColor=F28C28&labelColor=0B0B0D"/>
+<a href="https://github.com/Legendar0504?tab=followers"><img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/Legendar0504?color=F28C28&labelColor=0B0B0D&style=for-the-badge&logo=person-add&label=Follow&logoColor=F28C28"/></a>
+<img alt="views" src="https://komarev.com/ghpvc/?username=Legendar0504&color=F28C28&style=for-the-badge&label=%D0%9F%D0%A0%D0%9E%D0%A1%D0%9C%D0%9E%D0%A2%D0%A0%D0%AB"/>
+</div>
+
+<br clear="right"/>
 
 <img src="assets/divider.svg" width="100%"/>
 

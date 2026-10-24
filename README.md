@@ -10,7 +10,6 @@
   🟧 Сайты • интерактивные карты • Telegram-боты
   💻 JavaScript • Python • HTML/CSS • Docker
   🗺️ Сейчас делаю «Историческую карту» — karta-vekov.ru
-  🎮 Игры • Аниме • Евангелион • Код
 </pre>
 <br>
 <img src="assets/eyes.svg" height="40" alt="EVA-02"/>
@@ -49,5 +48,20 @@
 </a>
 
 **[karta-vekov.ru](https://karta-vekov.ru)** — интерактивная историческая карта: события, эпохи и личности на одной карте.
+
+<details open>
+<summary><h2>📊 Активность</h2></summary>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/F28C28/Legendar0504" alt="Календарь активности" width="100%"/>
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Legendar0504&show_icons=true&disable_animations=true&locale=ru&hide_border=false&bg_color=0B0B0D&title_color=F28C28&icon_color=FF3B2F&text_color=F4F1EA&border_color=F28C28&ring_color=F28C28"/>&nbsp;<img height="165" src="https://streak-stats.demolab.com/?user=Legendar0504&locale=ru&disable_animations=true&background=0B0B0D&border=F28C28&stroke=3A1D0B&ring=F28C28&fire=FF3B2F&currStreakNum=F4F1EA&sideNums=F4F1EA&currStreakLabel=F28C28&sideLabels=F28C28&dates=9A9A9A"/>
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendar0504&layout=compact&locale=ru&disable_animations=true&bg_color=0B0B0D&title_color=F28C28&text_color=F4F1EA&border_color=F28C28"/>
+</p>
+
+</details>
 
 <img src="assets/divider.svg" width="100%"/>

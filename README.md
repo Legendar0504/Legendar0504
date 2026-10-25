@@ -20,7 +20,11 @@
 
 <a href="https://steamcommunity.com/profiles/76561198624055739/"><img width="32px" alt="Steam" title="Steam: Legendar" src="https://cdn.simpleicons.org/steam/F28C28"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<img width="32px" alt="Discord" title="Discord: _legendar_" src="https://cdn.simpleicons.org/discord/F28C28"/>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://github.com/Legendar0504"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/F28C28"/></a>
 
-<br><br>
+<sub>Discord — наведи на ник и нажми 📋, чтобы скопировать</sub>
+
+```
+_legendar_
+```
 
 <a href="https://steamcommunity.com/profiles/76561198624055739/"><img alt="Steam" src="https://img.shields.io/badge/Steam-Legendar-F28C28?style=for-the-badge&logo=steam&logoColor=F28C28&labelColor=0B0B0D"/></a>
 <img alt="Discord" title="Мой Discord" src="https://img.shields.io/badge/Discord-__legendar__-F28C28?style=for-the-badge&logo=discord&logoColor=F28C28&labelColor=0B0B0D"/>

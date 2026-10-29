@@ -50,23 +50,19 @@ _legendar_
 
 ## 🟥 Проекты
 
-<a href="https://karta-vekov.ru">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Legendar0504&repo=historymap-v2-4&bg_color=0B0B0D&title_color=FF3B2F&icon_color=F28C28&text_color=F4F1EA&border_color=FF3B2F" alt="Историческая карта"/>
-</a>
-
-**[karta-vekov.ru](https://karta-vekov.ru)** — интерактивная историческая карта: события, эпохи и личности на одной карте.
+<a href="https://karta-vekov.ru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg"/><img src="assets/project-light.svg" width="460" alt="Историческая карта — karta-vekov.ru"/></picture></a>
 
 <details open>
 <summary><h2>📊 Активность</h2></summary>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/F28C28/Legendar0504" alt="Календарь активности" width="100%"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendar0504&theme=dark&bg_color=0d1117&title_color=F28C28&text_color=c9d1d9&border_color=30363d&icon_color=F28C28&chart_color=F28C28"/><img width="100%" alt="График активности" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Legendar0504&theme=default&bg_color=ffffff&title_color=D9480F&text_color=24292f&border_color=d0d7de&icon_color=E8590C&chart_color=E8590C"/></picture>
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Legendar0504&show_icons=true&disable_animations=true&locale=ru&hide_border=false&bg_color=0B0B0D&title_color=F28C28&icon_color=FF3B2F&text_color=F4F1EA&border_color=F28C28&ring_color=F28C28"/>&nbsp;<img height="165" src="https://streak-stats.demolab.com/?user=Legendar0504&locale=ru&disable_animations=true&background=0B0B0D&border=F28C28&stroke=3A1D0B&ring=F28C28&fire=FF3B2F&currStreakNum=F4F1EA&sideNums=F4F1EA&currStreakLabel=F28C28&sideLabels=F28C28&dates=9A9A9A"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Legendar0504&theme=dark&bg_color=0d1117&title_color=F28C28&text_color=c9d1d9&border_color=30363d&icon_color=F28C28&chart_color=F28C28"/><img width="49%" alt="Статистика" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Legendar0504&theme=default&bg_color=ffffff&title_color=D9480F&text_color=24292f&border_color=d0d7de&icon_color=E8590C&chart_color=E8590C"/></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Legendar0504&timeZone=Europe/Moscow&theme=dark&bg_color=0d1117&title_color=F28C28&text_color=c9d1d9&border_color=30363d&icon_color=F28C28&chart_color=F28C28"/><img width="49%" alt="Время активности" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Legendar0504&timeZone=Europe/Moscow&theme=default&bg_color=ffffff&title_color=D9480F&text_color=24292f&border_color=d0d7de&icon_color=E8590C&chart_color=E8590C"/></picture>
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendar0504&layout=compact&locale=ru&disable_animations=true&bg_color=0B0B0D&title_color=F28C28&text_color=F4F1EA&border_color=F28C28"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Legendar0504&locale=ru&disable_animations=true&background=0d1117&border=30363d&stroke=30363d&ring=F28C28&fire=F28C28&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=F28C28&sideLabels=c9d1d9&dates=8b949e"/><img width="70%" alt="Серия дней" src="https://streak-stats.demolab.com/?user=Legendar0504&locale=ru&disable_animations=true&background=ffffff&border=d0d7de&stroke=d0d7de&ring=E8590C&fire=E8590C&currStreakNum=24292f&sideNums=24292f&currStreakLabel=D9480F&sideLabels=57606a&dates=6e7781"/></picture>
 </p>
 
 </details>

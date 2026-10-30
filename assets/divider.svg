@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="divider">
-  <defs>
-    <pattern id="caution" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <rect width="14" height="28" fill="#F28C28"/>
-      <rect x="14" width="14" height="28" fill="#0B0B0D"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="28" rx="4" fill="url(#caution)"/>
-  <rect x="470" y="3" width="260" height="22" fill="#0B0B0D"/>
-  <text x="600" y="19" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3" fill="#FF3B2F">AT FIELD // ACTIVE</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="20" viewBox="0 0 1200 20" role="img" aria-label="Разделитель"><path d="M0 10H563M637 10H1200" stroke="#204E94" stroke-opacity=".65"/><path d="m600 3 7 7-7 7-7-7Z" fill="#76A7E8"/><circle cx="579" cy="10" r="2" fill="#C8C9BD"/><circle cx="621" cy="10" r="2" fill="#C8C9BD"/></svg>

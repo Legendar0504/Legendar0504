@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Legendar0504 — сайты, карты и боты">
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#11264B"/><stop offset=".6" stop-color="#204E94"/><stop offset="1" stop-color="#2862AB"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="340" rx="12"/></clipPath>
+    <g id="leaf"><path d="M0 0 Q-24 -32 -12 -57 Q12 -37 0 0Z" fill="#050A12"/></g>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#sky)"/>
+    <g fill="#C8C9BD" opacity=".65">
+      <circle cx="396" cy="49" r="1.2"/><circle cx="586" cy="89" r="1"/><circle cx="865" cy="59" r="1.3"/><circle cx="1034" cy="247" r="1"/><circle cx="721" cy="283" r="1.1"/><circle cx="307" cy="264" r="1"/>
+    </g>
+    <circle cx="978" cy="104" r="41" fill="#C8C9BD"/>
+    <circle cx="993" cy="92" r="39" fill="#23559B"/>
+    <path d="M0 0H246L192 18 158 20 112 47 78 44 37 67 0 61Z M0 340V0H33L28 96 50 173 38 262 63 340Z" fill="#050A12"/>
+    <path d="M1200 0H1143L1150 94 1126 179 1137 270 1110 340H1200Z" fill="#050A12"/>
+    <path d="M1170 98 Q1070 49 1027 0 M1152 181Q1095 160 1058 125 M20 117Q101 81 150 18" fill="none" stroke="#050A12" stroke-width="9"/>
+    <g>
+      <use href="#leaf" transform="translate(95 47) rotate(101)"/><use href="#leaf" transform="translate(134 31) rotate(155)"/><use href="#leaf" transform="translate(67 89) rotate(55)"/>
+      <use href="#leaf" transform="translate(1093 49) rotate(-39)"/><use href="#leaf" transform="translate(1129 75) rotate(-90)"/><use href="#leaf" transform="translate(1094 150) rotate(-65)"/><use href="#leaf" transform="translate(1146 254) rotate(-34)"/>
+    </g>
+    <text x="126" y="175" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="bold" letter-spacing="1" fill="#E3E3DA">Legendar<tspan fill="#A7BDD9">0504</tspan></text>
+    <path d="M130 205H702" stroke="#A7BDD9" stroke-opacity=".45"/>
+    <text x="130" y="246" font-family="'Segoe UI', Arial, sans-serif" font-size="23" fill="#E3E3DA">Сайты, карты и боты</text>
+    <path d="M0 335H1200" stroke="#050A12" stroke-width="10"/>
+  </g>
+</svg>
